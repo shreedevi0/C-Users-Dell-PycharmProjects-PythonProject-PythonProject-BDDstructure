@@ -9,4 +9,5 @@ Feature: Record page Verification
       Given Navigate to Time
       When User click on Attendance and select the My Records
       Then Record page should display
+      When #####
 
